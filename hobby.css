@@ -1,0 +1,26 @@
+
+
+section{
+    height: auto;
+    width: auto;
+    background-color: rgb(161, 7, 7);
+    
+}
+#boxInABox{
+    margin: auto;
+    padding: auto;
+}
+#leftSide{
+    color: white;
+    width: 50%;
+    float: left;
+    padding: 5px;
+
+
+}
+#rightSide{
+    color: white;
+    width: 50%;
+    float: right;
+    padding: 5px;
+}
